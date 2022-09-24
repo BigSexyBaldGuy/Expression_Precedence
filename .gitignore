@@ -1,0 +1,13 @@
+/.idea/.gitignore
+/out/production/Expression_Precedence/expressions/Addition.class
+/out/production/Expression_Precedence/expressions/Division.class
+/out/production/Expression_Precedence/expressions/Expression.class
+/Expression_Precedence.iml
+/out/production/Expression_Precedence/expressions/Integer.class
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/Expression_Precedence/expressions/Multiplication.class
+/out/production/Expression_Precedence/expressions/Parenthesis.class
+/out/production/Expression_Precedence/expressions/Parse.class
+/out/production/Expression_Precedence/expressions/Subtraction.class
+/.idea/vcs.xml
